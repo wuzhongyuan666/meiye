@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91ac371c-3550-4074-94e8-c8897c4c0507" name="Default Changelist" comment="" />
+    <list default="true" id="91ac371c-3550-4074-94e8-c8897c4c0507" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="79571543-78e0-4f72-a16b-39c052675cc4" name="Revert &quot;第myself次test&quot;" comment="Revert &quot;第myself次test&quot;&#10;&#10;This reverts commit 8d46f5e6" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +23,7 @@
         <entry file="file://$PROJECT_DIR$/test/com/cn/service/Impl/AdminServiceImplTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
-              <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -29,6 +32,11 @@
   </component>
   <component name="Git.Settings">
     <option name="PATH_TO_GIT" value="D:\Git\bin\git.exe" />
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="唐伟" />
+      </list>
+    </option>
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -60,7 +68,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -101,6 +108,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -166,7 +174,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559115693595</updated>
-      <workItem from="1559115702601" duration="5002000" />
+      <workItem from="1559115702601" duration="5595000" />
     </task>
     <task id="LOCAL-00001" summary="第一次test">
       <created>1559116179708</created>
@@ -252,7 +260,21 @@
       <option name="project" value="LOCAL" />
       <updated>1559120696963</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="第myself次test">
+      <created>1559120856797</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1559120856797</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Revert &quot;第myself次test&quot;&#10;&#10;This reverts commit 8d46f5e6">
+      <created>1559120949953</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1559120949953</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -261,11 +283,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5002000" />
+    <option name="totallyTimeSpent" value="5595000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Repositories" weight="0.3297587" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19101876" />
@@ -365,7 +386,8 @@
     <MESSAGE value="第we次test" />
     <MESSAGE value="第we2424次test" />
     <MESSAGE value="第myself次test" />
-    <option name="LAST_COMMIT_MESSAGE" value="第myself次test" />
+    <MESSAGE value="Revert &quot;第myself次test&quot;&#10;&#10;This reverts commit 8d46f5e6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;第myself次test&quot;&#10;&#10;This reverts commit 8d46f5e6" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cn/bean/Admin.java">
@@ -393,7 +415,7 @@
     <entry file="file://$PROJECT_DIR$/test/com/cn/service/Impl/AdminServiceImplTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
         </state>
       </provider>
     </entry>
