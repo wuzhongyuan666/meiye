@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91ac371c-3550-4074-94e8-c8897c4c0507" name="Default Changelist" comment="">
+    <list default="true" id="91ac371c-3550-4074-94e8-c8897c4c0507" name="Default Changelist" comment="Revert &quot;13244&#10;&#10;This reverts commit 8d46f5e6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/cn/service/Impl/AdminServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/cn/service/Impl/AdminServiceImplTest.java" afterDir="false" />
     </list>
     <list id="79571543-78e0-4f72-a16b-39c052675cc4" name="Revert &quot;第myself次test&quot;" comment="Revert &quot;第myself次test&quot;&#10;&#10;This reverts commit 8d46f5e6" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,8 +23,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/com/cn/service/Impl/AdminServiceImplTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+            <state relative-caret-position="286">
+              <caret line="20" column="40" lean-forward="true" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -34,11 +35,13 @@
     <option name="PATH_TO_GIT" value="D:\Git\bin\git.exe" />
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="田平" />
         <option value="唐伟" />
       </list>
     </option>
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -121,7 +124,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -174,7 +177,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559115693595</updated>
-      <workItem from="1559115702601" duration="5595000" />
+      <workItem from="1559115702601" duration="7007000" />
     </task>
     <task id="LOCAL-00001" summary="第一次test">
       <created>1559116179708</created>
@@ -274,7 +277,21 @@
       <option name="project" value="LOCAL" />
       <updated>1559120949953</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Revert &quot;第myself次test&quot;&#10;&#10;This reverts commit 8d46f5e6">
+      <created>1559121356498</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1559121356498</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Revert &quot;13244&#10;&#10;This reverts commit 8d46f5e6">
+      <created>1559121795970</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1559121795970</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -283,13 +300,14 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5595000" />
+    <option name="totallyTimeSpent" value="7007000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Repositories" weight="0.3297587" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19101876" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19101876" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -312,7 +330,7 @@
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Version Control" order="14" weight="0.3286119" />
       <window_info anchor="right" id="JSF" />
       <window_info anchor="right" id="CDI" />
       <window_info anchor="right" id="Bean Validation" />
@@ -387,7 +405,8 @@
     <MESSAGE value="第we2424次test" />
     <MESSAGE value="第myself次test" />
     <MESSAGE value="Revert &quot;第myself次test&quot;&#10;&#10;This reverts commit 8d46f5e6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;第myself次test&quot;&#10;&#10;This reverts commit 8d46f5e6" />
+    <MESSAGE value="Revert &quot;13244&#10;&#10;This reverts commit 8d46f5e6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;13244&#10;&#10;This reverts commit 8d46f5e6" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cn/bean/Admin.java">
@@ -414,8 +433,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/com/cn/service/Impl/AdminServiceImplTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        <state relative-caret-position="286">
+          <caret line="20" column="40" lean-forward="true" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
         </state>
       </provider>
     </entry>
