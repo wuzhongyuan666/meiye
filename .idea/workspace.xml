@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91ac371c-3550-4074-94e8-c8897c4c0507" name="Default Changelist" comment="Revert &quot;13244&#10;&#10;This reverts commit 8d46f5e6">
+    <list default="true" id="91ac371c-3550-4074-94e8-c8897c4c0507" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/com/cn/service/Impl/AdminServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/cn/service/Impl/AdminServiceImplTest.java" afterDir="false" />
     </list>
@@ -23,8 +23,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/com/cn/service/Impl/AdminServiceImplTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="20" column="40" lean-forward="true" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+            <state relative-caret-position="154">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#573#574#0" expanded="true" />
+                <element signature="e#644#645#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -177,7 +181,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559115693595</updated>
-      <workItem from="1559115702601" duration="7007000" />
+      <workItem from="1559115702601" duration="9089000" />
     </task>
     <task id="LOCAL-00001" summary="第一次test">
       <created>1559116179708</created>
@@ -291,7 +295,21 @@
       <option name="project" value="LOCAL" />
       <updated>1559121795970</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="123">
+      <created>1559122784421</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1559122784421</updated>
+    </task>
+    <task id="LOCAL-00018" summary="123">
+      <created>1559123213989</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1559123213989</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -300,7 +318,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7007000" />
+    <option name="totallyTimeSpent" value="9089000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -406,7 +424,8 @@
     <MESSAGE value="第myself次test" />
     <MESSAGE value="Revert &quot;第myself次test&quot;&#10;&#10;This reverts commit 8d46f5e6" />
     <MESSAGE value="Revert &quot;13244&#10;&#10;This reverts commit 8d46f5e6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;13244&#10;&#10;This reverts commit 8d46f5e6" />
+    <MESSAGE value="123" />
+    <option name="LAST_COMMIT_MESSAGE" value="123" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cn/bean/Admin.java">
@@ -433,8 +452,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/com/cn/service/Impl/AdminServiceImplTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="20" column="40" lean-forward="true" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+        <state relative-caret-position="154">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#644#645#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
