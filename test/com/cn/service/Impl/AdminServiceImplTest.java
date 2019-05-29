@@ -18,6 +18,8 @@ public class AdminServiceImplTest {
     @Test
     public void selectAll() {
         System.out.println("121121242");
+        System.out.println("121121242");
+        System.out.println("121121242");
         System.out.println(adminService.selectAll().toString());
     }
 }
