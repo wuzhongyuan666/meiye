@@ -17,7 +17,7 @@ public class AdminServiceImplTest {
     private AdminService adminService;
     @Test
     public void selectAll() {
-        System.out.println("111122");
+        System.out.println("122");
         System.out.println(adminService.selectAll().toString());
     }
 }
